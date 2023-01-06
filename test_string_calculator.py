@@ -2,6 +2,7 @@ import unittest
 
 from string_calculator import add
 
+# Unit testing of string calculator
 class TestStringCalculator(unittest.TestCase):
 
   def test_empty_string(self):
